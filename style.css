@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header{
+    width: 100%;
+    background: url(img/table-g641aa8536_1920.jpg) no-repeat center center fixed;
+    background-size: cover;
+    height: 25vh;
+}
