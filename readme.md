@@ -4,4 +4,3 @@
     $greenCard:#27AE60;
     $black: #33353B;
     $red: ???
-    
