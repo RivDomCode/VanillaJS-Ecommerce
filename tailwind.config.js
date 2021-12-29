@@ -3,7 +3,7 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     colors: {
-      'greyBg': '#F4F5F7',
+      'greyBg': '#EBEBED',
       'white': '#FFFFFF',
       'greenCard': '#27AE60',
       'black': '#33353B',
