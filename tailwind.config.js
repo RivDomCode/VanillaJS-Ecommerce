@@ -7,8 +7,15 @@ module.exports = {
       'white': '#FFFFFF',
       'greenCard': '#27AE60',
       'black': '#33353B',
+      'grey': "#bebec4",
+      'red': 'tomato'
     },
-    extend: {},
+    extend: {
+      fontFamily: {
+        'lato': ['Lato', 'sans-serif'],
+        'push': ['Pushter', 'cursive']
+      }
+    },
   },
   variants: {
     extend: {},
